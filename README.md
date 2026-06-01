@@ -62,16 +62,16 @@ Output (10 classes)
 
 ### 📊 Per-Class Accuracy:
 ------------------------------
-airplane    : 80.00%
-automobile  : 90.60%
-bird        : 66.80%
-cat         : 54.00%
-deer        : 83.70%
-dog         : 80.10%
-frog        : 94.90%
-horse       : 86.90%
-ship        : 96.20%
-truck       : 92.60%
+| airplane  | 80.00% |
+| automobile  | 90.60% |
+| bird        | 66.80% |
+| cat         | 54.00% |
+| deer        | 83.70 |
+| dog         | 80.10% |
+| frog        | 94.90% |
+| horse       | 86.90% |
+| ship        | 96.20% |
+| truck       | 92.60% |
 
 ---
 
