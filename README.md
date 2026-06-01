@@ -60,19 +60,20 @@ Output (10 classes)
 | Test Accuracy | 82.58% |
 | Total Parameters | ~1.2M |
 
-## 📊 Per-Class Accuracy:
-------------------------------
-| --- | --- |
-| airplane  | 80.00% |
-| automobile  | 90.60% |
-| bird        | 66.80% |
-| cat         | 54.00% |
-| deer        | 83.70 |
-| dog         | 80.10% |
-| frog        | 94.90% |
-| horse       | 86.90% |
-| ship        | 96.20% |
-| truck       | 92.60% |
+### Per-Class Accuracy
+
+| Class | Accuracy |
+|---|---|
+| ✈️ Airplane | 80.00% |
+| 🚗 Automobile | 90.60% |
+| 🐦 Bird | 66.80% |
+| 🐱 Cat | 54.00% |
+| 🦌 Deer | 83.70% |
+| 🐶 Dog | 80.10% |
+| 🐸 Frog | 94.90% |
+| 🐴 Horse | 86.90% |
+| 🚢 Ship | 96.20% |
+| 🚚 Truck | 92.60% |
 
 ---
 
