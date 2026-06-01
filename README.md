@@ -62,6 +62,7 @@ Output (10 classes)
 
 ### 📊 Per-Class Accuracy:
 ------------------------------
+| --- | --- |
 | airplane  | 80.00% |
 | automobile  | 90.60% |
 | bird        | 66.80% |
