@@ -60,7 +60,7 @@ Output (10 classes)
 | Test Accuracy | 82.58% |
 | Total Parameters | ~1.2M |
 
-### 📊 Per-Class Accuracy:
+## 📊 Per-Class Accuracy:
 ------------------------------
 | --- | --- |
 | airplane  | 80.00% |
